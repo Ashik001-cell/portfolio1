@@ -2,7 +2,8 @@
 
 body{
 	
-	background-image:url('cool-background.png');
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,0.8040966386554622) 0%, rgba(0,212,255,0.7872899159663865) 100%);
 	background-size:cover;
 	background-attachment:fixed;
 }
